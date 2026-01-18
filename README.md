@@ -1,5 +1,8 @@
 # Landing Page Project
 
+# 🚀 [**CLICK HERE TO VIEW LIVE DEMO**](https://simple-learn-ta.vercel.app/)
+### (Hosted on Vercel)
+
 A high-fidelity landing page built with Next.js 16, shadcn/ui, Server Components, Server Actions, and Airtable integration.
 
 ## Tech Stack
